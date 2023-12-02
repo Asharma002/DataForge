@@ -31,7 +31,7 @@ def classification(X,y,target):
 def main():
 
 
-            st.warning("This wont work when target columns have empty values and string values")
+            st.warning("Note : Regression wont work when target columns have empty values or string values.. we working on it")
 
             Result_technique= st.radio("What you want to do?",["Classification","Regression"])
     # if Result_technique=="Classification":
