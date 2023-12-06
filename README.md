@@ -15,3 +15,5 @@ Real-time Metric Calculation:
 Deployment and Scalability:
 
 5. Deployed the application on a platform like Streamlit, showcasing the ability to make data-driven predictions accessible to non-technical users. Demonstrated scalability and performance optimization for efficient use in various scenarios.
+
+Link: https://dataforge.streamlit.app/
