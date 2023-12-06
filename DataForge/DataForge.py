@@ -74,7 +74,7 @@ def main():
                         elif fill=='drop':
                             X=X.dropna(subset=[col])
                     st.write("After Applying mentioned Technique")
-                    st.dataframe(data)
+                    st.dataframe(X)
 
                 st.markdown("""---""")
 
